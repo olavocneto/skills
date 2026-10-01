@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "ticket-writer": {
+      "source": "olavocneto/skills",
+      "sourceType": "github",
+      "skillPath": "skills/project-management/ticket-writer/SKILL.md",
+      "computedHash": "a10b412376865dc088309099974fad663db2c833a025178f323c7074fe9c4d0f"
+    }
+  }
+}
